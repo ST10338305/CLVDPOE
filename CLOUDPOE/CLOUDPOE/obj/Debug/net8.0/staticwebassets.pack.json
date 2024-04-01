@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CLOUDPOE.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CLOUDPOE.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\A Consultant’s Career Path.jpeg",
+      "PackagePath": "staticwebassets\\Images\\A Consultant’s Career Path.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\A Girl Inspired.jpeg",
+      "PackagePath": "staticwebassets\\Images\\A Girl Inspired.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Alkanet soap.jpg",
+      "PackagePath": "staticwebassets\\Images\\Alkanet soap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Brown Minimal Hello Fall.png",
+      "PackagePath": "staticwebassets\\Images\\Brown Minimal Hello Fall.png"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Ceramic Mug.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ceramic Mug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Crafted Blanket.jpg",
+      "PackagePath": "staticwebassets\\Images\\Crafted Blanket.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\CrazyLeather.jpg",
+      "PackagePath": "staticwebassets\\Images\\CrazyLeather.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Dude Talking.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dude Talking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Gabriel Jimenez- Immigration Attorney In EL Paso.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Gabriel Jimenez- Immigration Attorney In EL Paso.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\HandWoven basket resize.jpg",
+      "PackagePath": "staticwebassets\\Images\\HandWoven basket resize.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Instagram Logo.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Instagram Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Jewelry box.jpg",
+      "PackagePath": "staticwebassets\\Images\\Jewelry box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Long Wood Necklace.jpg",
+      "PackagePath": "staticwebassets\\Images\\Long Wood Necklace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Spanish Scarf.jpg",
+      "PackagePath": "staticwebassets\\Images\\Spanish Scarf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Team.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Team.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\Wooden Bowls.jpg",
+      "PackagePath": "staticwebassets\\Images\\Wooden Bowls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\Images\\dream catcher.jpg",
+      "PackagePath": "staticwebassets\\Images\\dream catcher.jpg"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CLOUDPOE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CLOUDPOE.props",
+      "PackagePath": "build\\CLOUDPOE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CLOUDPOE.props",
+      "PackagePath": "buildMultiTargeting\\CLOUDPOE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CLOUDPOE.props",
+      "PackagePath": "buildTransitive\\CLOUDPOE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

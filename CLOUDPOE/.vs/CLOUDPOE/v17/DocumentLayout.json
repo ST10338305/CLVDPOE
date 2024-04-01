@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\about\\aboutdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\about\\aboutdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\mywork\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\mywork\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\contact\\contactdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\contact\\contactdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\controllers\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|c:\\users\\david\\source\\repos\\cloudpoe\\cloudpoe\\models\\craftworkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3450BD-919F-40F5-A35F-F502D9F34AD0}|CLOUDPOE\\CLOUDPOE.csproj|solutionrelative:cloudpoe\\models\\craftworkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWorkController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\MyWorkController.cs",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Controllers\\MyWorkController.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\MyWorkController.cs",
+              "RelativeToolTip": "CLOUDPOE\\Controllers\\MyWorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:59:21.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutDisplay.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\About\\AboutDisplay.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\About\\AboutDisplay.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\About\\AboutDisplay.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\About\\AboutDisplay.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:18:00.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAwG8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T20:23:15.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactDisplay.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Contact\\ContactDisplay.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\Contact\\ContactDisplay.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Contact\\ContactDisplay.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\Contact\\ContactDisplay.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:18:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\MyWork\\Display.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\MyWork\\Display.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\MyWork\\Display.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\MyWork\\Display.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T16:20:04.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\Contact.cs",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Controllers\\Contact.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\Contact.cs",
+              "RelativeToolTip": "CLOUDPOE\\Controllers\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:11:31.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CLOUDPOE\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CLOUDPOE\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T15:13:29.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "CLOUDPOE\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T14:50:35.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T16:16:32.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CLOUDPOE\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T18:04:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "CLOUDPOE\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:12:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CraftWorkModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Models\\CraftWorkModel.cs",
+              "RelativeDocumentMoniker": "CLOUDPOE\\Models\\CraftWorkModel.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\CLOUDPOE\\CLOUDPOE\\Models\\CraftWorkModel.cs",
+              "RelativeToolTip": "CLOUDPOE\\Models\\CraftWorkModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:54:21.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

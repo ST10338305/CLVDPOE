@@ -1,0 +1,107 @@
+﻿@model List<CLOUDPOE.Models.CraftWorkModel>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand Crafted Products Catalog</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: blanchedalmond;
+            color:aliceblue
+        }
+
+        h2 {
+           
+            text-align: center;
+            margin-bottom: 40px; /* Add space below the heading */
+        }
+
+        .card {
+            transition: transform 0.3s ease-in-out;
+            overflow: hidden; 
+        }
+
+            .card:hover {
+                transform: translateY(-5px); /* Add a slight lift effect on hover */
+            }
+
+        .card-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333; /* Darken the text color */
+            transition: color 0.3s ease; /* Add transition for color change */
+        }
+
+        .card-text {
+            color: #666; /* Slightly darken the text color */
+            transition: color 0.3s ease; /* Add transition for color change */
+        }
+
+        .card:hover .card-title,
+        .card:hover .card-text {
+            color: #ff7f50; /* Change text color on hover */
+        }
+
+        img {
+            width: 200px; /* Set the desired width */
+            height: 700px; /* Set the desired height */
+            object-fit: cover; /* Maintain aspect ratio and cover the entire space */
+        }
+
+        .stock-indicator {
+            display: none;
+            font-size: 14px;
+            color: green; /* Change color as needed */
+        }
+
+        .card:hover .stock-indicator {
+            display: block;
+        }
+
+        .jumbotron {
+            background-color: tan;
+            color: black;
+            font-family:'Times New Roman', Times, serif;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>Welcome to the Catalogue of Hand Crafted Products</h2>
+    <div class="container">
+        <!-- Information about Khumalo Craft -->
+        <div class="jumbotron">
+            <h2>
+                Khumalo Craft is dedicated to bringing handcrafted products from around the world to a global audience. We believe in supporting artisans and their unique creations, allowing them to reach a larger market and share their talents with the world.
+                <p>Learn more <a href="@Url.Action("AboutDisplay","About")">about us</a>.</p>
+            </h2>
+            
+        </div>
+
+        <!-- Product display section -->
+        
+        <p>Take a look at our selection of authentic handcrafted goods, hover over the product to check availability!</p>
+
+        <div class="row">
+            @foreach (var craftWork in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow">
+                        <img class="card-img-top" src="@Url.Content(craftWork.ImageUrl)" alt="@craftWork.Name">
+                        <div class="card-body">
+                            <h5 class="card-title">@craftWork.Name</h5>
+                            <p class="card-text">@craftWork.Description</p>
+                            <p class="card-text">Price: $@craftWork.Price</p>
+                            <p class="stock-indicator">In Stock</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</body>

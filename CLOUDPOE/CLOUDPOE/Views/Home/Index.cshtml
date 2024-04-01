@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to KhumaloCraft Emporium</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color:blanchedalmond;
+            color:aliceblue 
+           
+        }
+
+        .jumbotron {
+           
+            color: #fff;
+            padding: 100px 20px;
+            text-align: center;
+            background-size: cover; 
+            background-position: center;
+            background-image: url('Images/a girl inspired.jpeg');
+        }
+
+        .display-4 {
+            font-size: 3.5rem;
+            font-weight: 700;
+        }
+
+        .lead {
+            font-size: 1.5rem;
+        }
+
+        .btn-primary {
+            background-color: #28a745;
+            border-color: #28a745;
+        }
+
+            .btn-primary:hover {
+                background-color: #218838;
+                border-color: #1e7e34;
+            }
+
+        .instagram-card {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+        }
+
+            .instagram-card .card-body {
+                padding: 10px;
+                background-color: #e95950; /* Instagram brand color */
+                border-radius: 10px;
+                color: #fff;
+            }
+
+            .instagram-card .btn {
+                background-color: transparent;
+                border: none;
+                padding: 0;
+            }
+
+                .instagram-card .btn img {
+                    width: 40px; /* Adjust size as needed */
+                    height: 40px; /* Adjust size as needed */
+                }
+
+    </style>
+</head>
+<body>
+
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome to KhumaloCraft Emporium</h1>
+        <p class="lead">Discover unique handmade crafts from artisans around the world.</p>
+        <a href="@Url.Action("Display", "MyWork")" class="btn btn-primary btn-lg">Explore Now</a>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="card" style="background-image: url('/Images/Team.jpeg'); background-size: cover;
+            background-position: center;">
+            <div class="card-body">
+                <h5 class="card-title">This is Us</h5>
+                <p class="card-text">Find out more about us</p>
+                <a href="@Url.Action("AboutDisplay", "About")" class="btn btn-primary btn-lg">Meet Us!</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <<div class="card" style="background-image: url('/Images/a consultant’s career path.jpeg'); background-size: cover;
+            background-position: center;">
+            <div class="card-body">
+                <h5 class="card-title">Contact</h5>
+                <p class="card-text">We're always open for you ;)'</p>
+                <a href="@Url.Action("ContactDisplay", "Contact")" class="btn btn-primary btn-lg">Contact Us!</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 mb-4">
+        <div class="card" style="background-image: url('/Images/gabriel jimenez- immigration attorney in el paso.jpeg'); background-size: cover;
+            background-position: center;">
+            <div class="card-body">
+                <h5 class="card-title">Privacy</h5>
+                <p class="card-text">Incase you're the Fed's</p><p>&#x1F644;</p>
+                <a href="@Url.Action("Privacy", "Home")" class="btn btn-primary btn-lg">Enter</a>
+            </div>
+           
+        </div>
+    </div>
+
+   
+    
+
+
+</body>
